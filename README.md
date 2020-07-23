@@ -1,4 +1,4 @@
-# CRUD_DE_PLAN_DE_CUENTAS_PYTHON3.8
+# Tarea_de_CRUD_Sexto_Semestre
 Esta es mi tarea de CRUD de Plan de Cuentas
 Para que puedas trabajar con este programa debes crear una base de datos sea en MySQL o MariaDB(HeidiSQL)
 Recuerda: En el archivo de conexion.py debes configurar el usuario y contraseña que usas en el HeidiSQL donde
